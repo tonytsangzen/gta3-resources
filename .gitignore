@@ -1,0 +1,11 @@
+# Original GTA III commercial assets
+/gamefiles/models/gta3.img
+/gamefiles/models/gta3.dir
+/gamefiles/anim/
+/gamefiles/audio/
+/gamefiles/data/main.scm
+
+# Runtime state and local builds
+/userfiles/
+/build/
+/*.log
